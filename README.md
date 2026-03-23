@@ -17,6 +17,8 @@ When maintaining WiFi networks, technicians often export raw login data from net
 ## Value to the IBUS Tech Team
 By standardizing error reasons and automating data intersection, this utility transforms raw, messy data into actionable insights in seconds. It eliminates manual spreadsheet comparison, reduces human error, and allows the tech team to spend less time formatting reports and more time resolving actual network and authentication issues.
 
+https://huntersouvik.github.io/Login-fail-report-generator/
+
 ## 🚀 Features
 
 - **Smart Data Merging:** Combines raw failure and success logs into a single workflow.
