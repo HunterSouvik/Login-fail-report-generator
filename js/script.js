@@ -121,6 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (i === index) s.classList.add('active');
             if (i > index) s.classList.remove('completed');
         });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     btnNext1.addEventListener('click', () => goToStep(1));
